@@ -17,5 +17,5 @@ RTA – Real Theft Auto is an open-world GTA-style game for Android, developed u
 - Click Build
 
 ## 👨‍💻 Developer
-Name: Your Name  
-Email: your@email.com  
+Name: RISHABH KUMAR 
+Email: Rishabhkumar000034@Gmail.com  
